@@ -1,3 +1,5 @@
+![logo](https://github.com/tanishqsoni24/tanishqsoni24/blob/main/github-banner.png)
+
 <h1 align="center">Hi 👋, I'm Tanishq Soni</h1>
 <h3 align="center">A passionate developer from India</h3>
 
