@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-- 📝 I Write Technical articles on [https://tanishqsoni.hashnode.dev/](https://tanishqsoni.hashnode.dev/)
+- 📝 I Write Technical articles on [Tanishq's Hashnode](https://tanishqsoni.hashnode.dev/)
 
 - 💬 Ask me about **ReactJs, Django, Node/ExpressJs**
 
 - 📫 How to reach me **tanishqsoni0309@gmail.com**
 
-- ⚡ Fun fact **I think I am a Multi-Tasker**
+- ⚡ Fun fact **I think I am a Multi-Tasker + Open to Contracts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
